@@ -32,6 +32,10 @@
 
 - [网络模型](net/IO.md)
 
+## 运维
+
+ - Shell [参考博客](http://www.cnblogs.com/f-ck-need-u/p/7048359.html#blogshell)
+
 ## 工具
 
 - HTML转PDF [wkhtmltopdf](https://wkhtmltopdf.org/usage/wkhtmltopdf.txt)
